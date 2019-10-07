@@ -5,6 +5,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 
+
+//HTTP - hyper text transfer protocol
+//URL - adres źródłamvn -N io.takari:maven:0.7.6:wrapper
 public class App {
     public static void main(String[] args) {
 
